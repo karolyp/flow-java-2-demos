@@ -1,4 +1,4 @@
-package com.kpakozdi;
+package com.kpakozdi.ea1;
 
 public class LinkedList<T> implements List<T> {
     // legelső elem, innen kezdődik a lista

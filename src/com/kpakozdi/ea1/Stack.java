@@ -1,4 +1,4 @@
-package com.kpakozdi;
+package com.kpakozdi.ea1;
 
 public class Stack<T> {
     private final LinkedList<T> container;

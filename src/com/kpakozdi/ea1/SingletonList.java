@@ -1,4 +1,4 @@
-package com.kpakozdi;
+package com.kpakozdi.ea1;
 
 // K - key, V - value, T - type, E - element
 

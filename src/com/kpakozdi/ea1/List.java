@@ -1,4 +1,4 @@
-package com.kpakozdi;
+package com.kpakozdi.ea1;
 
 public interface List<T> {
     void addFirst(T element);
